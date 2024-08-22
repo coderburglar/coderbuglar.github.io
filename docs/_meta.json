@@ -1,16 +1,7 @@
 [
   {
-    "text": "Guide",
-    "link": "/guide/",
-    "activeMatch": "/guide/"
-  },
-  {
-    "text": "Hello World",
-    "link": "/hello/",
-    "activeMatch": "/hello/"
-  },
-  {
-    "text": "API",
-    "link": "https://rspress.dev/api/index.html"
+    "text": "计算机网络((中科大郑烇、杨坚版本))",
+    "link": "/NetWork/",
+    "activeMatch": "/NetWork/"
   }
 ]

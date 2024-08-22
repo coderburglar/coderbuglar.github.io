@@ -4,14 +4,14 @@ pageType: home
 hero:
   name: code blog
   text: 代码博客
-  tagline: code blog tagline
+  tagline: 代码博客冲冲冲！
   actions:
     - theme: brand
-      text: Quick Start
-      link: /guide/
+      text: GOGOGO!!!
+      link: /NetWork/
     - theme: alt
       text: GitHub
-      link: https://github.com/web-infra-dev/rspress
+      link: https://github.com/coderburglar/coderburglar.github.io
   image:
     src: /rspress-icon.png
     alt: code blog Logo

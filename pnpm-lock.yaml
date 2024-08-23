@@ -6,13 +6,13 @@ settings:
 
 dependencies:
   rspress:
-    specifier: ^1.28.0
+    specifier: ^1.28.1
     version: 1.28.1(webpack@5.93.0)
 
 devDependencies:
   '@types/node':
-    specifier: ^16
-    version: 16.18.105
+    specifier: 16.18.1
+    version: 16.18.1
 
 packages:
 
@@ -634,8 +634,8 @@ packages:
     resolution: {integrity: sha512-nG96G3Wp6acyAgJqGasjODb+acrI7KltPiRxzHPXnP3NgI28bpQDRv53olbqGXbfcgF5aiiHmO3xpwEpS5Ld9g==}
     dev: false
 
-  /@types/node@16.18.105:
-    resolution: {integrity: sha512-w2d0Z9yMk07uH3+Cx0N8lqFyi3yjXZxlbYappPj+AsOlT02OyxyiuNoNHdGt6EuiSm8Wtgp2YV7vWg+GMFrvFA==}
+  /@types/node@16.18.1:
+    resolution: {integrity: sha512-Z659t5cj2Tt2SaqbJxXRo5EaU86E4l2CxtklCY1VftxYXhR81Z75UsugwdI7l5MUAR1I+l8sdt3B5Y++ZV76WQ==}
 
   /@types/parse5@6.0.3:
     resolution: {integrity: sha512-SuT16Q1K51EAVPz1K29DJ/sXjhSQ0zjvsypYJ6tlwVsRV9jwW5Adq2ch8Dq8kDBCkYnELS7N7VNCSB5nC56t/g==}
@@ -1698,7 +1698,7 @@ packages:
     resolution: {integrity: sha512-7vuh85V5cdDofPyxn58nrPjBktZo0u9x1g8WtjQol+jZDaE+fhN+cIvTj11GndBnMnyfrUOG1sZQxCdjKh+DKg==}
     engines: {node: '>= 10.13.0'}
     dependencies:
-      '@types/node': 16.18.105
+      '@types/node': 16.18.1
       merge-stream: 2.0.0
       supports-color: 8.1.1
     dev: false

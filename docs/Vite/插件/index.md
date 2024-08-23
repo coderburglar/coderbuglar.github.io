@@ -10,4 +10,4 @@
 - vite-plugin-optimizer : 帮助减少不必要的代码
 - vite-plugin-imagemin： 图片压缩
 
-![example]('../../../../../images/vite插件示例.png')
+<!-- ![example]('../../../../../images/vite插件示例.png') -->

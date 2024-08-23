@@ -6,12 +6,12 @@ settings:
 
 dependencies:
   rspress:
-    specifier: ^1.28.1
+    specifier: ^1.28.0
     version: 1.28.1(webpack@5.93.0)
 
 devDependencies:
   '@types/node':
-    specifier: 16.18.1
+    specifier: ^16
     version: 16.18.1
 
 packages:
